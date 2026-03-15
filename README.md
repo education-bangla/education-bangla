@@ -159,5 +159,3 @@ To expand capabilities, you can add “skills” on top of the core chat:
 MIT © 2026 EduChat
 
 ***
-
-Want me to add a `quiz` skill (MCQ generator) directly into `app.js` next, or focus on a `flashcards` mode first?
